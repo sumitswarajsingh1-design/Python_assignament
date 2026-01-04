@@ -1,4 +1,4 @@
-# Python_assignament
+# Python_assignament 1
 
 ## Task 1: Arithmetic Operations
 - This program asks the user to enter two numbers.
